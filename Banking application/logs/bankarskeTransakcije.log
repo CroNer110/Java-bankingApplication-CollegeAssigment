@@ -1,0 +1,12 @@
+2013-10-31 02:28:38,975 INFO [main] h.t.p.j.g.Glavna [Glavna.java:33] Uneseno ime vlasnika prvog racuna:Franjo
+2013-10-31 02:28:53,263 INFO [main] h.t.p.j.g.Glavna [Glavna.java:40] Uneseno prezime vlasnika prvog racuna:Franjiæ
+2013-11-28 11:49:25,507 INFO [main] h.t.p.j.g.Glavna [Glavna.java:167] Uneseno ime vlasnika1. raèuna: I
+2013-11-28 11:49:27,642 INFO [main] h.t.p.j.g.Glavna [Glavna.java:171] Uneseno prezime vlasnika 1. raèuna: Ivic
+2013-11-28 11:49:32,251 INFO [main] h.t.p.j.g.Glavna [Glavna.java:175] Unesen je OIB vlasnika 1. raèuna: 456787
+2013-11-28 11:49:48,541 INFO [main] h.t.p.j.g.Glavna [Glavna.java:197] Unesen je broj 1. raèuna: 458
+2013-11-28 11:50:00,459 INFO [main] h.t.p.j.g.Glavna [Glavna.java:212] Uneseno ime vlasnika 2. raèuna: Franjo
+2013-11-28 11:50:05,316 INFO [main] h.t.p.j.g.Glavna [Glavna.java:215] Uneseno ime prezime 2. raèuna: Franjic
+2013-11-28 11:50:11,257 INFO [main] h.t.p.j.g.Glavna [Glavna.java:218] Unesen je OIB vlasnika 2. raèuna: 78853
+2013-11-28 11:50:17,550 INFO [main] h.t.p.j.g.Glavna [Glavna.java:240] Unesen je IBAN 2. raèuna: 77
+2013-11-28 11:50:21,451 INFO [main] h.t.p.j.g.Glavna [Glavna.java:248] Unesena je valuta 2. raèuna: EUR
+2013-11-28 11:50:26,940 INFO [main] h.t.p.j.g.Glavna [Glavna.java:97] Unesen je iznos transakcije (u kunama) sa prvog na drugi raèun: 5000

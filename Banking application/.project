@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Rebrnjak-10</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>joda-time-2.3</name>
+			<type>2</type>
+			<location>C:/Users/Ilijan/workspace/Rebrnjak-10/lib/joda-time-2.3</location>
+		</link>
+		<link>
+			<name>lib/h2</name>
+			<type>2</type>
+			<location>C:/Users/Ilijan/workspace/Rebrnjak-9/lib/h2</location>
+		</link>
+	</linkedResources>
+</projectDescription>
